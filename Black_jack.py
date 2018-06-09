@@ -1,6 +1,6 @@
 """
 
-Name: Ukrit khonglao  Username: ukho367  ID number: 677644555 
+Written by Ukrit khonglao  
 
 """
 class Queue:
